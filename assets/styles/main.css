@@ -1,4 +1,4 @@
-/* main.css - base styles */
-body {
-  font-family: Arial, sans-serif;
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
 }
