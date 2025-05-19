@@ -2,3 +2,15 @@ body.dark-mode {
   background-color: #121212;
   color: #e0e0e0;
 }
+.subscribe-btn {
+  background-color: #007bff;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.subscribe-btn:hover {
+  background-color: #0056b3;
+}
